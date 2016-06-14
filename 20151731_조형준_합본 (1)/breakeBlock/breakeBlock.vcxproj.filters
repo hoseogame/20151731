@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\벽돌깨기">
+      <UniqueIdentifier>{7a7caacc-e522-4133-8365-bb1021dfc25d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\벽돌깨기\ETC">
+      <UniqueIdentifier>{980e2ac4-f798-4bf0-817f-38539197b208}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\벽돌깨기\Object">
+      <UniqueIdentifier>{6e47b864-992b-4e63-b6fd-b3f85a57a420}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\벽돌깨기\Scene &amp; Game">
+      <UniqueIdentifier>{36488842-117b-45d5-ac3f-e8c16794cb11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\벽돌깨기">
+      <UniqueIdentifier>{a00f2467-a06f-4b2a-8097-13787846f17f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\벽돌깨기\ETC">
+      <UniqueIdentifier>{6bdd117d-a89f-41f2-a9cd-de57c4ee5e7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\벽돌깨기\Scene &amp; Game">
+      <UniqueIdentifier>{cf4e7666-8a98-4e72-b674-4861079f1af8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\벽돌깨기\Object">
+      <UniqueIdentifier>{97119045-b9df-4879-8e52-1843887226fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\슛골인">
+      <UniqueIdentifier>{18db8125-2f8a-4ad8-bfec-a50cbb1b0a29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\슛골인">
+      <UniqueIdentifier>{88534d53-3e3f-4c22-9444-ed8d54afc338}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\슛골인\Object">
+      <UniqueIdentifier>{6ac0f06c-71d0-45e8-8b46-d32f68f81fda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\슛골인\ETC">
+      <UniqueIdentifier>{070f0677-a274-4a91-8cf6-74d92fe50692}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\슛골인\Scnen &amp; Game">
+      <UniqueIdentifier>{2879514f-d64e-4774-81a4-2b43f570eb92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\슛골인\Object">
+      <UniqueIdentifier>{dd014d77-bb3a-4034-9a0d-11d262879bb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\슛골인\ETC">
+      <UniqueIdentifier>{428c7f9c-e895-41d8-bc49-5400373e3d84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\슛골인\Scene &amp; Game">
+      <UniqueIdentifier>{c2b36949-e6cb-48e2-ac30-76fbe5ad17fe}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BreakBlockGame.cpp">
+      <Filter>소스 파일\벽돌깨기\Scene &amp; Game</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BB_EndScene.cpp">
+      <Filter>소스 파일\벽돌깨기\Scene &amp; Game</Filter>
+    </ClCompile>
+    <ClCompile Include="BB_GameScene.cpp">
+      <Filter>소스 파일\벽돌깨기\Scene &amp; Game</Filter>
+    </ClCompile>
+    <ClCompile Include="BB_IntroScene.cpp">
+      <Filter>소스 파일\벽돌깨기\Scene &amp; Game</Filter>
+    </ClCompile>
+    <ClCompile Include="BB_MainScene.cpp">
+      <Filter>소스 파일\벽돌깨기\Scene &amp; Game</Filter>
+    </ClCompile>
+    <ClCompile Include="BB_Ball.cpp">
+      <Filter>소스 파일\벽돌깨기\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="BB_Block.cpp">
+      <Filter>소스 파일\벽돌깨기\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="BB_Object.cpp">
+      <Filter>소스 파일\벽돌깨기\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="BB_PlayerBar.cpp">
+      <Filter>소스 파일\벽돌깨기\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="BB_Input.cpp">
+      <Filter>소스 파일\벽돌깨기\ETC</Filter>
+    </ClCompile>
+    <ClCompile Include="BB_ScreenManager.cpp">
+      <Filter>소스 파일\벽돌깨기\ETC</Filter>
+    </ClCompile>
+    <ClCompile Include="BB_StageManager.cpp">
+      <Filter>소스 파일\벽돌깨기\ETC</Filter>
+    </ClCompile>
+    <ClCompile Include="SG_Ball.cpp">
+      <Filter>소스 파일\슛골인\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="SG_GoalPost.cpp">
+      <Filter>소스 파일\슛골인\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="SG_Player.cpp">
+      <Filter>소스 파일\슛골인\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="SG_Object.cpp">
+      <Filter>소스 파일\슛골인\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="SG_Input.cpp">
+      <Filter>소스 파일\슛골인\ETC</Filter>
+    </ClCompile>
+    <ClCompile Include="SG_StageManager.cpp">
+      <Filter>소스 파일\슛골인\ETC</Filter>
+    </ClCompile>
+    <ClCompile Include="SG_ScreenManager.cpp">
+      <Filter>소스 파일\슛골인\ETC</Filter>
+    </ClCompile>
+    <ClCompile Include="SG_EndScene.cpp">
+      <Filter>소스 파일\슛골인\Scnen &amp; Game</Filter>
+    </ClCompile>
+    <ClCompile Include="SG_GameScene.cpp">
+      <Filter>소스 파일\슛골인\Scnen &amp; Game</Filter>
+    </ClCompile>
+    <ClCompile Include="SG_IntroScene.cpp">
+      <Filter>소스 파일\슛골인\Scnen &amp; Game</Filter>
+    </ClCompile>
+    <ClCompile Include="SG_MainScene.cpp">
+      <Filter>소스 파일\슛골인\Scnen &amp; Game</Filter>
+    </ClCompile>
+    <ClCompile Include="SG_ShootGoalGame.cpp">
+      <Filter>소스 파일\슛골인\Scnen &amp; Game</Filter>
+    </ClCompile>
+    <ClCompile Include="MiniGameGameger.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BB_Input.h">
+      <Filter>헤더 파일\벽돌깨기\ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="BB_ScreenManager.h">
+      <Filter>헤더 파일\벽돌깨기\ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="BB_StageManager.h">
+      <Filter>헤더 파일\벽돌깨기\ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="BB_Utility.h">
+      <Filter>헤더 파일\벽돌깨기\ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="BB_Ball.h">
+      <Filter>헤더 파일\벽돌깨기\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="BB_Block.h">
+      <Filter>헤더 파일\벽돌깨기\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="BB_Object.h">
+      <Filter>헤더 파일\벽돌깨기\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="BB_PlayerBar.h">
+      <Filter>헤더 파일\벽돌깨기\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="BB_BreakBlockGame.h">
+      <Filter>헤더 파일\벽돌깨기\Scene &amp; Game</Filter>
+    </ClInclude>
+    <ClInclude Include="BB_EndScene.h">
+      <Filter>헤더 파일\벽돌깨기\Scene &amp; Game</Filter>
+    </ClInclude>
+    <ClInclude Include="BB_gameScene.h">
+      <Filter>헤더 파일\벽돌깨기\Scene &amp; Game</Filter>
+    </ClInclude>
+    <ClInclude Include="BB_IntroScene.h">
+      <Filter>헤더 파일\벽돌깨기\Scene &amp; Game</Filter>
+    </ClInclude>
+    <ClInclude Include="BB_MainScene.h">
+      <Filter>헤더 파일\벽돌깨기\Scene &amp; Game</Filter>
+    </ClInclude>
+    <ClInclude Include="SG_Ball.h">
+      <Filter>헤더 파일\슛골인\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="SG_GoalPost.h">
+      <Filter>헤더 파일\슛골인\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="SG_Object.h">
+      <Filter>헤더 파일\슛골인\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="SG_Player.h">
+      <Filter>헤더 파일\슛골인\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="SG_Input.h">
+      <Filter>헤더 파일\슛골인\ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="SG_ScreenManager.h">
+      <Filter>헤더 파일\슛골인\ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="SG_StageManager.h">
+      <Filter>헤더 파일\슛골인\ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="SG_Utility.h">
+      <Filter>헤더 파일\슛골인\ETC</Filter>
+    </ClInclude>
+    <ClInclude Include="SG_EndScene.h">
+      <Filter>헤더 파일\슛골인\Scene &amp; Game</Filter>
+    </ClInclude>
+    <ClInclude Include="SG_gameScene.h">
+      <Filter>헤더 파일\슛골인\Scene &amp; Game</Filter>
+    </ClInclude>
+    <ClInclude Include="SG_IntroScene.h">
+      <Filter>헤더 파일\슛골인\Scene &amp; Game</Filter>
+    </ClInclude>
+    <ClInclude Include="SG_MainScene.h">
+      <Filter>헤더 파일\슛골인\Scene &amp; Game</Filter>
+    </ClInclude>
+    <ClInclude Include="SG_ShootGoalGame.h">
+      <Filter>헤더 파일\슛골인\Scene &amp; Game</Filter>
+    </ClInclude>
+    <ClInclude Include="MiniGameManager.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MiniGame.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

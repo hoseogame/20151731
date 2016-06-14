@@ -1,0 +1,49 @@
+﻿  SG_StageManager.cpp
+c:\users\user\desktop\oop연습\합본\breakeblock\sg_utility.h(15): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  SG_ShootGoalGame.cpp
+  SG_ScreenManager.cpp
+c:\users\user\desktop\oop연습\합본\breakeblock\sg_utility.h(15): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  SG_Player.cpp
+  SG_Object.cpp
+c:\users\user\desktop\oop연습\합본\breakeblock\sg_utility.h(15): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\user\desktop\oop연습\합본\breakeblock\sg_object.cpp(14): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SG_MainScene.cpp
+c:\users\user\desktop\oop연습\합본\breakeblock\sg_utility.h(15): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\user\desktop\oop연습\합본\breakeblock\sg_mainscene.cpp(132): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SG_IntroScene.cpp
+  SG_Input.cpp
+  SG_GoalPost.cpp
+c:\users\user\desktop\oop연습\합본\breakeblock\sg_goalpost.cpp(15): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SG_GameScene.cpp
+  SG_EndScene.cpp
+c:\users\user\desktop\oop연습\합본\breakeblock\sg_utility.h(15): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  SG_Ball.cpp
+c:\users\user\desktop\oop연습\합본\breakeblock\sg_utility.h(15): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  BB_StageManager.cpp
+c:\users\user\desktop\oop연습\합본\breakeblock\bb_utility.h(16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  BB_ScreenManager.cpp
+c:\users\user\desktop\oop연습\합본\breakeblock\bb_utility.h(16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  BB_PlayerBar.cpp
+c:\users\user\desktop\oop연습\합본\breakeblock\bb_utility.h(16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  BreakBlockGame.cpp
+  BB_Object.cpp
+c:\users\user\desktop\oop연습\합본\breakeblock\bb_utility.h(16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  BB_MainScene.cpp
+c:\users\user\desktop\oop연습\합본\breakeblock\bb_utility.h(16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\user\desktop\oop연습\합본\breakeblock\bb_mainscene.cpp(158): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+c:\users\user\desktop\oop연습\합본\breakeblock\bb_utility.h(16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  BB_IntroScene.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  BB_Input.cpp
+  BB_GameScene.cpp
+  BB_EndScene.cpp
+c:\users\user\desktop\oop연습\합본\breakeblock\bb_utility.h(16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  BB_Block.cpp
+c:\users\user\desktop\oop연습\합본\breakeblock\bb_utility.h(16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  BB_Ball.cpp
+c:\users\user\desktop\oop연습\합본\breakeblock\bb_utility.h(16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\user\desktop\oop연습\합본\breakeblock\bb_ball.cpp(12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  breakeBlock.vcxproj -> C:\Users\user\Desktop\oop연습\합본\x64\Debug\합본.exe
